@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=theEventName
+comment0.target=EventName(java.lang.String)
+comment0.text=\r\n\ Mutator\ Method.\r\n\ @param\ to\ set\ the\ variable\ for\ theEventName\r\n
+comment1.params=
+comment1.target=java.lang.String\ getTheEventName()
+comment1.text=\r\n\ Accessor\ Method.\r\n\ @return\ theEventName\ attribute\ as\ a\ String\r\n
+comment2.params=theEventName
+comment2.target=EventName\ get(java.lang.String)
+comment2.text=\r\n\ Accessor\ Method.\r\n\ the\ following\ method\ allows\ me\ to\ create\ a\ EventName\ enum\ from\ a\ String\!\r\n
+numComments=3

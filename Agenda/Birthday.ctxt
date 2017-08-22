@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=year\ month\ day\ person
+comment0.target=Birthday(int,\ int,\ int,\ Person)
+comment0.text=\r\n\ Constructor\ to\ initialize\ Birthday\r\n\ @param\ day\ to\ set\ attribute\ for\ day\ of\ class\ Birthday\r\n\ @param\ month\ to\ set\ attribute\ for\ month\ of\ class\ Birthday\r\n\ @param\ year\ to\ set\ attribute\ for\ year\ of\ class\ Birthday\r\n\ @param\ person\ to\ set\ attribute\ of\ person\r\n
+comment1.params=
+comment1.target=int\ getDay()
+comment1.text=\r\n\ Accessor\ Method\r\n\ @return\ day\ attribute\r\n
+comment2.params=
+comment2.target=int\ getMonth()
+comment2.text=\r\n\ Accessor\ Method\r\n\ @return\ month\ attribute\r\n
+comment3.params=
+comment3.target=int\ getYear()
+comment3.text=\r\n\ Accessor\ Method\r\n\ @return\ year\ attribute\r\n
+comment4.params=
+comment4.target=Person\ getPerson()
+comment4.text=\r\n\ Accessor\ Method\r\n\ @return\ person\ attribute\r\n
+comment5.params=person
+comment5.target=void\ setPerson(Person)
+comment5.text=\r\n\ Mutator\ Method\r\n\ @param\ person\ to\ set\ value\ of\ person\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Method\ to\ return\ Birthday\ as\ a\ String\r\n\ @return\ event\ as\ a\ String\r\n
+comment7.params=thisBirthday
+comment7.target=int\ compareTo(Birthday)
+comment7.text=\r\n\ Method\ to\ compare\ two\ events\ dates.\r\n\ @param\ thisEvent\ to\ compare\ with\ this\ event.\r\n\ @return\ +\ if\ (this\ event\ is\ bigger)\ if\ it\ is\ a\ newer\ day.\r\n
+numComments=8

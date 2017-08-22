@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=literal
+comment0.target=Weekday(java.lang.String)
+comment0.text=\r\n\ Mutator.\r\n\ @param\ literal\ to\ set\ value\ to\ WeekDay\r\n
+comment1.params=searchTerm
+comment1.target=Weekday\ get(java.lang.String)
+comment1.text=\r\n\ To\ create\ a\ WeekDay\ enum\ from\ a\ String\r\n\ @param\ searchTerm\ the\ weekday\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Accessor.\r\n\ @return\ theWeekDay\ attribute\ as\ a\ String\r\n
+numComments=3

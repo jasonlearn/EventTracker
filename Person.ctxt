@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=firstName\ lastName
+comment0.target=Person(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ class\ Person\r\n\ @param\ firstName\ set\ attribute\ for\ first\ name\ of\ Person\r\n\ @param\ lastName\ set\ attribute\ for\ last\ name\ of\ Person\r\n\ Constructor\ of\ Person\ class\ catches\ InvalidNameException\ when\ firstName\ or\r\n\ lastName\ is\ equal\ to\ null\ or\ is\ empty.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getFirstName()
+comment1.text=\r\n\ Accessor\ Method\r\n\ @return\ firstName\ value\ of\ Person\r\n
+comment2.params=firstName
+comment2.target=void\ setFirstName(java.lang.String)
+comment2.text=\r\n\ Mutator\ Method\r\n\ This\ method\ throws\ InvalidNameException\ when\ firstName\ is\ empty\ or\ equals\ to\ null.\r\n\ @param\ firstName\ to\ set\ attribute\ for\ Person\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLastName()
+comment3.text=\r\n\ Accessor\ Method\r\n\ @return\ lastName\ value\ of\ Person\r\n
+comment4.params=lastName
+comment4.target=void\ setLastName(java.lang.String)
+comment4.text=\r\n\ Mutator\ Method\r\n\ This\ method\ throws\ InvalidNameException\ when\ lastName\ is\ empty\ or\ equals\ to\ null.\r\n\ @param\ lastName\ to\ set\ attribute\ of\ Person\r\n
+comment5.params=
+comment5.target=java.lang.String\ getFullName()
+comment5.text=\r\n\ Method\ to\ get\ person\ full\ name\r\n
+comment6.params=
+comment6.target=void\ report()
+numComments=7
